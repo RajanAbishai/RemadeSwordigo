@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 692002253
+    locked: 0
+  - name: Rocks
+    uniqueID: 3812611677
+    locked: 0
+  - name: Trees
+    uniqueID: 2756470313
+    locked: 0
+  - name: Houses and Signs
+    uniqueID: 1952565005
+    locked: 0
+  - name: Ground
+    uniqueID: 3880088181
+    locked: 0
+  - name: Player
+    uniqueID: 2783139701
+    locked: 0
+  - name: Bullet
+    uniqueID: 2179031259
+    locked: 0
