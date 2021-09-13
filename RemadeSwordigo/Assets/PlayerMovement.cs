@@ -93,8 +93,15 @@ public class PlayerMovement : MonoBehaviour
             if (jumped)
             {
                 jumped = false;
-                anim.SetBool("Jump", false);
+
+                
+                
+                
+                
+               anim.SetBool("Jump", false);
             }
+
+            
         }
     }
    
