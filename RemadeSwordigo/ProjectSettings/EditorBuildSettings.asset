@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 3.unity
     guid: fcb2698fb2d88b04caca33299db8dd5b
+  - enabled: 1
+    path: Assets/Scenes/Scene1_ExitFromHouses.unity
+    guid: 5b93235713791b14e820aeb3c0447740
   m_configObjects: {}

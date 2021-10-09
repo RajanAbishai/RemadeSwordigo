@@ -206,7 +206,7 @@ public class EnemyDamageScript : MonoBehaviour
 
 
 
-    IEnumerator DeactivateEnemy
+    IEnumerator DeactivateEnemy(float timer)
     {
 
         //AudioManager.instance.ZombieDieSound();
