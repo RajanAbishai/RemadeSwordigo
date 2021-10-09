@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Elder's House.unity
+    guid: 703c54eaaaffc134eac7c40fee1caed8
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 77bff2962358cfb4184472cc3e705f68
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: 29ded3e987d0ab04683096eae83a5e05
+  - enabled: 1
+    path: Assets/Scenes/Scene 3.unity
+    guid: fcb2698fb2d88b04caca33299db8dd5b
   m_configObjects: {}

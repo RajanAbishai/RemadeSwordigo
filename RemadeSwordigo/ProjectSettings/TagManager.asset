@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Bullet
+  - Snail
+  - Beetle
+  - Coin
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - Ground
   - Player
   - Bullet
-  - 
+  - Enemy
   - 
   - 
   - 
@@ -63,4 +66,7 @@ TagManager:
     locked: 0
   - name: Bullet
     uniqueID: 2179031259
+    locked: 0
+  - name: Score
+    uniqueID: 3387768085
     locked: 0
